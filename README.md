@@ -1,2 +1,2 @@
-# DoDilligence
+# DoDiligence
 Website for stock analysis
